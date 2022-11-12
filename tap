@@ -26,7 +26,7 @@ end
 --Tabs
 
 local Tab = Window:MakeTab({
-	Name = "Farm",
+	Name = "Main",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
